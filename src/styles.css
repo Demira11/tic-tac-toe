@@ -28,10 +28,7 @@ body {
     cursor: pointer;
 }
 
-.message {
-    font-size: 24px;
-    margin-bottom: 10px;
-}
+
 
 .restart-btn {
     font-size: 18px;
