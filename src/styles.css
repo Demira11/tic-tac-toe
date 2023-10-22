@@ -42,3 +42,10 @@ body {
     padding: 20px
 }
 
+
+.title{
+    color: rgb(190, 145, 232);
+    font-weight: bold;
+    margin: 30px;
+    font-size: 55px;
+}
